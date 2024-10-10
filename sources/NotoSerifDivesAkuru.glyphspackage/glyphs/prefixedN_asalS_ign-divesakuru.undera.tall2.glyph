@@ -7,6 +7,9 @@ anchors = (
 {
 name = _top;
 pos = (396,862);
+},
+{
+name = _underatwo;
 }
 );
 background = {
@@ -115,6 +118,11 @@ nodes = (
 width = 396;
 },
 {
+anchors = (
+{
+name = _underatwo;
+}
+);
 associatedMasterId = "0C4B00F6-5348-41D6-8EE7-AA18FE59D1B1";
 backgroundImage = {
 imagePath = "../../../../Library/CloudStorage/GoogleDrive-fernando.de-moraes-caro@mail.ensa-nancy.fr/Other computers/My MacBook Air/ANRT/Other/Work/Noto/2_Research/1_Character samples/Simple characters/Document 32/Samples/dh_D32_491.jpg";
@@ -171,6 +179,11 @@ nodes = (
 width = 2876;
 },
 {
+anchors = (
+{
+name = _underatwo;
+}
+);
 associatedMasterId = "0C4B00F6-5348-41D6-8EE7-AA18FE59D1B1";
 background = {
 shapes = (
@@ -395,6 +408,9 @@ anchors = (
 {
 name = _top;
 pos = (396,862);
+},
+{
+name = _underatwo;
 }
 );
 associatedMasterId = "0C4B00F6-5348-41D6-8EE7-AA18FE59D1B1";
