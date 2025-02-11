@@ -18,7 +18,7 @@ shapes = (
 ref = "ra-divesakuru.medi";
 }
 );
-width = 1548;
+width = 1374;
 }
 );
 subCategory = Nonspacing;
